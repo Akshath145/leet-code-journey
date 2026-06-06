@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshath145/leet-code-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Akshath145/leet-code-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Akshath145/leet-code-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Akshath145/leet-code-journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Akshath145/leet-code-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Akshath145/leet-code-journey/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Greedy
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Akshath145/leet-code-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Akshath145/leet-code-journey/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Akshath145/leet-code-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Akshath145/leet-code-journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Akshath145/leet-code-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Akshath145/leet-code-journey/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Akshath145/leet-code-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Akshath145/leet-code-journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Akshath145/leet-code-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -66,4 +69,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akshath145/leet-code-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Akshath145/leet-code-journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Akshath145/leet-code-journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
