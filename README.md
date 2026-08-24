@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Akshath145/leet-code-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Akshath145/leet-code-journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Akshath145/leet-code-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Akshath145/leet-code-journey/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Akshath145/leet-code-journey/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
