@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Akshath145/leet-code-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshath145/leet-code-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Akshath145/leet-code-journey/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/Akshath145/leet-code-journey/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Akshath145/leet-code-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Akshath145/leet-code-journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Akshath145/leet-code-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Akshath145/leet-code-journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Akshath145/leet-code-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Akshath145/leet-code-journey/tree/main/0141-linked-list-cycle/) | Easy |
+| [0283-move-zeroes](https://github.com/Akshath145/leet-code-journey/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Akshath145/leet-code-journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
