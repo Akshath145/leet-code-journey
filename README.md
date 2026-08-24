@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Akshath145/leet-code-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Akshath145/leet-code-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Akshath145/leet-code-journey/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/Akshath145/leet-code-journey/tree/main/0344-reverse-string/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Akshath145/leet-code-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Akshath145/leet-code-journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/Akshath145/leet-code-journey/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/Akshath145/leet-code-journey/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Akshath145/leet-code-journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
