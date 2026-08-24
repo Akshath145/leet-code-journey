@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Akshath145/leet-code-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/Akshath145/leet-code-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Akshath145/leet-code-journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Akshath145/leet-code-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Akshath145/leet-code-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Akshath145/leet-code-journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Akshath145/leet-code-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Akshath145/leet-code-journey/tree/main/0141-linked-list-cycle/) | Easy |
