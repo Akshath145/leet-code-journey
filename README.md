@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Akshath145/leet-code-journey/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshath145/leet-code-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/Akshath145/leet-code-journey/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/Akshath145/leet-code-journey/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Akshath145/leet-code-journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Akshath145/leet-code-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshath145/leet-code-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Akshath145/leet-code-journey/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Akshath145/leet-code-journey/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/Akshath145/leet-code-journey/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Akshath145/leet-code-journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshath145/leet-code-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Akshath145/leet-code-journey/tree/main/0217-contains-duplicate/) | Easy |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Akshath145/leet-code-journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Akshath145/leet-code-journey/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshath145/leet-code-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/Akshath145/leet-code-journey/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Akshath145/leet-code-journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Akshath145/leet-code-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Akshath145/leet-code-journey/tree/main/0141-linked-list-cycle/) | Easy |
@@ -150,4 +153,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Akshath145/leet-code-journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Akshath145/leet-code-journey/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Akshath145/leet-code-journey/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
