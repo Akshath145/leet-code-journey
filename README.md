@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Akshath145/leet-code-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Akshath145/leet-code-journey/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Akshath145/leet-code-journey/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Akshath145/leet-code-journey/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Akshath145/leet-code-journey/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/Akshath145/leet-code-journey/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/Akshath145/leet-code-journey/tree/main/0342-power-of-four/) | Easy |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Akshath145/leet-code-journey/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
