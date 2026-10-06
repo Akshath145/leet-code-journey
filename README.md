@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Akshath145/leet-code-journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshath145/leet-code-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Akshath145/leet-code-journey/tree/main/0217-contains-duplicate/) | Easy |
+| [0260-single-number-iii](https://github.com/Akshath145/leet-code-journey/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/Akshath145/leet-code-journey/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Akshath145/leet-code-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Akshath145/leet-code-journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/Akshath145/leet-code-journey/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Akshath145/leet-code-journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Akshath145/leet-code-journey/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/Akshath145/leet-code-journey/tree/main/0260-single-number-iii/) | Medium |
 | [0338-counting-bits](https://github.com/Akshath145/leet-code-journey/tree/main/0338-counting-bits/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
