@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Akshath145/leet-code-journey/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/Akshath145/leet-code-journey/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/Akshath145/leet-code-journey/tree/main/0342-power-of-four/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/Akshath145/leet-code-journey/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Akshath145/leet-code-journey/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/Akshath145/leet-code-journey/tree/main/0338-counting-bits/) | Easy |
+| [0342-power-of-four](https://github.com/Akshath145/leet-code-journey/tree/main/0342-power-of-four/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,4 +199,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Akshath145/leet-code-journey/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Akshath145/leet-code-journey/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/Akshath145/leet-code-journey/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
