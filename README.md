@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshath145/leet-code-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Akshath145/leet-code-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0260-single-number-iii](https://github.com/Akshath145/leet-code-journey/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/Akshath145/leet-code-journey/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Akshath145/leet-code-journey/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Akshath145/leet-code-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Akshath145/leet-code-journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshath145/leet-code-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Akshath145/leet-code-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Akshath145/leet-code-journey/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Akshath145/leet-code-journey/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Akshath145/leet-code-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Akshath145/leet-code-journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Heap (Priority Queue)
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Akshath145/leet-code-journey/tree/main/0146-lru-cache/) | Medium |
 | [0217-contains-duplicate](https://github.com/Akshath145/leet-code-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Akshath145/leet-code-journey/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Akshath145/leet-code-journey/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Akshath145/leet-code-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Akshath145/leet-code-journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Akshath145/leet-code-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -110,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Akshath145/leet-code-journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0268-missing-number](https://github.com/Akshath145/leet-code-journey/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Akshath145/leet-code-journey/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -163,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Akshath145/leet-code-journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Akshath145/leet-code-journey/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/Akshath145/leet-code-journey/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/Akshath145/leet-code-journey/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/Akshath145/leet-code-journey/tree/main/0338-counting-bits/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -189,4 +194,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Akshath145/leet-code-journey/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/Akshath145/leet-code-journey/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
