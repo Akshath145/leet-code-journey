@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/Akshath145/leet-code-journey/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Akshath145/leet-code-journey/tree/main/0191-number-of-1-bits/) | Easy |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Akshath145/leet-code-journey/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Akshath145/leet-code-journey/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Akshath145/leet-code-journey/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/Akshath145/leet-code-journey/tree/main/0260-single-number-iii/) | Medium |
